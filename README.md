@@ -4,4 +4,6 @@
 
 **Студент:** Тимушев Сергей Алексеевич
 
-**Repo URL** https://github.com/tsergey88/Inopolis
+**Repo URL:** https://github.com/tsergey88/Inopolis
+
+[Промежуточная аттестация №2](./assessment2/README.md)
